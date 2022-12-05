@@ -4,4 +4,4 @@ docker logs congratulator-postgres
 
 docker ps
 
-pause
+PAUSE

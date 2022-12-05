@@ -6,4 +6,4 @@ docker logs delconvip-postgres
 
 docker ps
 
-pause
+PAUSE
